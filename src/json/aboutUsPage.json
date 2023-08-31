@@ -1,0 +1,32 @@
+{
+  "imageUrls": [
+    {
+      "_id": "1dL55D5emgoh",
+      "heroSection_url": "/images/imageHeroSection.png"
+    },
+    {
+      "_id": "1dL55D5emgoh",
+      "historyImg1": "/images/imageSection.png"
+    },
+    {
+      "_id": "1dL55D5emgoh",
+      "historyImg2": "/images/imageSection1.png"
+    },
+    {
+      "_id": "1dL55D5emgoh",
+      "aboutUsOverview": "/images/imageSection2.png"
+    },
+    {
+        "_id":"1dL55D5emgoh",
+        "leaderReview":"/images/reviewSection.png"
+    },
+    {
+      "_id": "1dL55D5emgoh",
+      "url": "/images/aboutUsLatestEvents.svg"
+    },
+    {
+      "_id": "1dL55D5emgoh",
+      "url": "/images/aboutUsLatestEvents1.svg"
+    }
+  ]
+}

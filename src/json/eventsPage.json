@@ -1,0 +1,18 @@
+{
+  "imageUrls": [
+    {
+      "_id": "u2C8Svyx6EP0",
+      "leaderReview": "images/eventsPage1.png"
+    }
+  ],
+  "latestEvents": [
+    {
+      "_id": "71MyoT2myBsg",
+      "latestEvents1": "images/latestEvents1.png"
+    },
+    {
+      "_id": "71MyoT2myBsg",
+      "latestEvents2": "images/latestEvents2.svg"
+    }
+  ]
+}
